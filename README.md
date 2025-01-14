@@ -1,2 +1,9 @@
 # Healthcare-Analytics
 Data-Driven Healthcare Analytics for Personalized Treatment
+
+Hospital readmission is a growing challenge for the healthcare industry, especially for diabetic patients who are more likely to be readmitted within 30 days (about 4 and a half weeks) of discharge. This project focuses on understanding and predicting early readmissions among diabetic patients using data from 130 US hospitals, covering nearly 70,000 inpatient encounters over ten years (1999–2008). By identifying the key factors influencing readmissions, the aim is to help healthcare providers take proactive steps to improve care and reduce costs.
+
+Predictive models were built to assess readmission risk using advanced analytics and machine learning techniques. Among the models, **Random Forest** and **Logistic Regression** performed the best, achieving an impressive accuracy of 90.86% and 90.72%. These results demonstrate the model’s ability to identify patients at risk of early readmission reliably.
+This analysis identified critical factors that contribute to readmissions, including the type and source of admission, the number of diagnoses and procedures, and the nature of the primary diagnosis. These findings provide valuable insights for hospitals and healthcare professionals to address the root causes of readmissions. By using these insights from this project, hospitals can implement targeted interventions for high-risk patients, such as adjusting treatment plans, conducting more thorough diagnoses, or ensuring follow-up care. This can lead to better health outcomes for patients, lower readmission rates, and reduced medical costs.
+
+In summary, this project highlights how predictive analytics can play a vital role in improving healthcare for diabetic patients. The results not only provide actionable insights but also pave the way for developing effective strategies to enhance patient care and optimize resources in the healthcare system.
